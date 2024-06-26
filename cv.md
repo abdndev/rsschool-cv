@@ -14,7 +14,7 @@ I was interested in web-programming a few years ago. I spent a lot of time study
 
 ## Code Examples
 
-```
+```javascript
 const joinNumbersFromRange = (start, finish) => {
 
     let result = '';
